@@ -1,0 +1,5 @@
+title: "Cyber Playbook"
+description: "Course labs and topic-based notes that present well to employers."
+theme: jekyll-theme-cayman
+markdown: kramdown
+highlighter: rouge
