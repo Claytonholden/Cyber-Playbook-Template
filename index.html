@@ -1,26 +1,21 @@
-<!doctype html>
-<html>
-<head>
-<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Cyber Playbook</title>
-<link rel="stylesheet" href="assets/style.css">
-</head>
-<body>
-<div class="wrap">
-<h1>Cyber Playbook</h1>
-<p>Classes → Topics → Artifacts (screenshots / logs)</p>
+---
+layout: default
+title: Home
+---
+<section class="hero">
+  <h1>Show your work — clearly.</h1>
+  <p>Student-friendly structure: <strong>Classes → Topics → Artifacts</strong>. Screenshots live in each topic’s <code>assets/</code> folder.</p>
+</section>
 
-<div class="card"><h3>Server Management</h3>
-<p>Windows Server install, config, IAM, and hybrid cloud.</p>
-<a href="ServerManagement/index.md">Open Course</a></div>
-
-<div class="card"><h3>Cyber Ethics</h3>
-<p>Ethics, policy, and privacy labs and reflections.</p>
-<a href="Cyber-Ethics/index.md">Open Course</a></div>
-
-<footer style="margin-top:30px;color:#a7b3c2;font-size:13px">
-© 2025 • Built for students + employers
-</footer>
-</div>
-</body>
-</html>
+<section class="grid">
+  <article class="card"><h3>Server Management</h3><p>Windows Server install, config, identity & hybrid cloud.</p><a class="btn" href="{{ 'ServerManagement/' | relative_url }}">Open</a></article>
+  <article class="card"><h3>Cyber Ethics</h3><p>Ethics, privacy, policy artifacts and reflections.</p><a class="btn" href="{{ 'Cyber-Ethics/' | relative_url }}">Open</a></article>
+  <article class="card"><h3>CCNA Security</h3><p>ACLs, VPN, device hardening, lab notes.</p><a class="btn" href="{{ 'CCNA-Security/' | relative_url }}">Open</a></article>
+  <article class="card"><h3>Unix / Linux</h3><p>Shell, users/permissions, networking, SSH/SCP.</p><a class="btn" href="{{ 'Unix-Linux/' | relative_url }}">Open</a></article>
+  <article class="card"><h3>Security+</h3><p>Threats, IAM, SecOps — CompTIA-aligned notes.</p><a class="btn" href="{{ 'SecurityPlus/' | relative_url }}">Open</a></article>
+  <article class="card"><h3>Cisco II – R&S</h3><p>Routing (static/OSPF), VLANs, trunks, redundancy.</p><a class="btn" href="{{ 'Cisco-II/' | relative_url }}">Open</a></article>
+  <article class="card"><h3>Intro to Networks</h3><p>OSI, TCP/IP, addressing & subnetting fundamentals.</p><a class="btn" href="{{ 'Intro-to-Networks/' | relative_url }}">Open</a></article>
+  <article class="card"><h3>Security Awareness</h3><p>Phishing, passwords/MFA, safe browsing, data handling.</p><a class="btn" href="{{ 'Security-Awareness/' | relative_url }}">Open</a></article>
+  <article class="card"><h3>Computer Hardware & OS</h3><p>PC components, storage, imaging, troubleshooting.</p><a class="btn" href="{{ 'Computer-Hardware-OS/' | relative_url }}">Open</a></article>
+  <article class="card"><h3>Python Essentials</h3><p>Basics, file parsing, CLI tools, networking & APIs.</p><a class="btn" href="{{ 'PythonEssentials/' | relative_url }}">Open</a></article>
+</section>
