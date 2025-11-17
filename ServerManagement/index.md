@@ -12,3 +12,4 @@ title: ServerManagement
     <a class="btn" href="./">Refresh after adding a topic</a>
   </article>
 </section>
+- [Windows Install Config](./Windows-Install-Config/PLAYBOOK_ENTRY.html)
