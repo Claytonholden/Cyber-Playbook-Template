@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Cyber Ethics
+title: PythonEssentials
 ---
-<section class="hero"><h1>Cyber Ethics</h1>
-<p>Topics for Cyber Ethics appear here. Add topics with <code>./scripts/new-topic.sh \"Cyber-Ethics\" \"Your-Topic\"</code>.</p></section>
+<section class="hero"><h1>PythonEssentials</h1>
+<p>Topics for PythonEssentials appear here. Add topics with <code>./scripts/new-topic.sh \"PythonEssentials\" \"Your-Topic\"</code>.</p></section>
 
 <section class="grid">
   <article class="card">

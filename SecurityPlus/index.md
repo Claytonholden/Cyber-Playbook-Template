@@ -3,7 +3,7 @@ layout: default
 title: SecurityPlus
 ---
 <section class="hero"><h1>SecurityPlus</h1>
-<p>Topics for SecurityPlus appear here. Add topics with <code>./scripts/new-topic.sh "SecurityPlus" "Your-Topic"</code>.</p></section>
+<p>Topics for SecurityPlus appear here. Add topics with <code>./scripts/new-topic.sh \"SecurityPlus\" \"Your-Topic\"</code>.</p></section>
 
 <section class="grid">
   <article class="card">

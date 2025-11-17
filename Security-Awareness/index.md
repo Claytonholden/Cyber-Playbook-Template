@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Cyber Ethics
+title: Security Awareness
 ---
-<section class="hero"><h1>Cyber Ethics</h1>
-<p>Topics for Cyber Ethics appear here. Add topics with <code>./scripts/new-topic.sh \"Cyber-Ethics\" \"Your-Topic\"</code>.</p></section>
+<section class="hero"><h1>Security Awareness</h1>
+<p>Topics for Security Awareness appear here. Add topics with <code>./scripts/new-topic.sh \"Security-Awareness\" \"Your-Topic\"</code>.</p></section>
 
 <section class="grid">
   <article class="card">

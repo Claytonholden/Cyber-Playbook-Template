@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Cyber Ethics
+title: Cisco II
 ---
-<section class="hero"><h1>Cyber Ethics</h1>
-<p>Topics for Cyber Ethics appear here. Add topics with <code>./scripts/new-topic.sh \"Cyber-Ethics\" \"Your-Topic\"</code>.</p></section>
+<section class="hero"><h1>Cisco II</h1>
+<p>Topics for Cisco II appear here. Add topics with <code>./scripts/new-topic.sh \"Cisco-II\" \"Your-Topic\"</code>.</p></section>
 
 <section class="grid">
   <article class="card">

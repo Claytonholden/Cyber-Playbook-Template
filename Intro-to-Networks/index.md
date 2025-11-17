@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Cyber Ethics
+title: Intro to Networks
 ---
-<section class="hero"><h1>Cyber Ethics</h1>
-<p>Topics for Cyber Ethics appear here. Add topics with <code>./scripts/new-topic.sh \"Cyber-Ethics\" \"Your-Topic\"</code>.</p></section>
+<section class="hero"><h1>Intro to Networks</h1>
+<p>Topics for Intro to Networks appear here. Add topics with <code>./scripts/new-topic.sh \"Intro-to-Networks\" \"Your-Topic\"</code>.</p></section>
 
 <section class="grid">
   <article class="card">

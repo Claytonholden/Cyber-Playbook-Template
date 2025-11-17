@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Cyber Ethics
+title: Computer Hardware OS
 ---
-<section class="hero"><h1>Cyber Ethics</h1>
-<p>Topics for Cyber Ethics appear here. Add topics with <code>./scripts/new-topic.sh \"Cyber-Ethics\" \"Your-Topic\"</code>.</p></section>
+<section class="hero"><h1>Computer Hardware OS</h1>
+<p>Topics for Computer Hardware OS appear here. Add topics with <code>./scripts/new-topic.sh \"Computer-Hardware-OS\" \"Your-Topic\"</code>.</p></section>
 
 <section class="grid">
   <article class="card">
